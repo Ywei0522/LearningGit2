@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 80C3-E17E
+
+ Directory of C:\Users\User\Desktop\Practical01
+
+14/06/2021  01:11 PM    <DIR>          .
+14/06/2021  01:11 PM    <DIR>          ..
+14/06/2021  12:44 PM               130 cli.html
+14/06/2021  12:30 PM                34 cli.txt
+14/06/2021  01:11 PM                 0 cli2.txt
+14/06/2021  12:53 PM    <DIR>          savedPic
+               3 File(s)            164 bytes
+               3 Dir(s)  595,928,039,424 bytes free
